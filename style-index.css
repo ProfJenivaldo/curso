@@ -1,0 +1,48 @@
+body {
+    background-color: #70a1ff;
+    margin: 0px;
+}
+
+#banner {
+    background-color: white;
+    text-align: center;
+    font-weight: bolder;
+    padding: .4vw;
+    vertical-align: middle;
+}
+
+#titulo {
+    font-size: 3.4vw;
+}
+
+#subtitulo {
+    font-size: 2vw;
+}
+
+#faixa {
+    display: flex;
+    color: white;
+    padding: .2vw;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.divisao {
+    display: block;
+    width: 60vw;
+    justify-content: center;
+    margin: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 2vw;
+}
+
+.subfaixa {
+    display: flex;
+    justify-content: center;
+    padding: 1.4vw;
+    border-radius: 10px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 2vw;
+}

@@ -21,8 +21,8 @@ p {
     height: 30px;
     /* opacity: 0.8;
     position: fixed;
-    top: 0px; */
-    float: right;
+    top: 0px;
+    float: right; */
 }
 
 .espacamento {
@@ -40,7 +40,6 @@ p {
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: underline overline;
-    position: absolute;
 }
 
 span {
