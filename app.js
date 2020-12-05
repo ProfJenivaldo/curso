@@ -1,0 +1,1 @@
+document.getElementsByClassName('paragrafo').item(0).innerHTML = "Tag paragrafo com novo conteudo"
